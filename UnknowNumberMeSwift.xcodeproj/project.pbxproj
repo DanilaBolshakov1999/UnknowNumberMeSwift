@@ -24,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		44A0BBF72A05C2B500F0C63A /* Products */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Products; path = "../../../../Library/Developer/Xcode/DerivedData/UnknowNumberMeSwift-elczucmdjbgwleekzjuzqrmqiyxg/Build/Products"; sourceTree = "<group>"; };
 		44FBAD8D2A05B8F400C87991 /* UnknowNumberMeSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = UnknowNumberMeSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		44FBAD902A05B8F400C87991 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		44FBAD972A05B90900C87991 /* func.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = func.swift; sourceTree = "<group>"; };
@@ -43,6 +44,7 @@
 		44FBAD842A05B8F400C87991 = {
 			isa = PBXGroup;
 			children = (
+				44A0BBF72A05C2B500F0C63A /* Products */,
 				44FBAD8F2A05B8F400C87991 /* UnknowNumberMeSwift */,
 				44FBAD8E2A05B8F400C87991 /* Products */,
 			);
