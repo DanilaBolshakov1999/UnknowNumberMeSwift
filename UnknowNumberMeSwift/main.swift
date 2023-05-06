@@ -7,20 +7,26 @@
 
 import Foundation
 
-// MARK: - Constants
+// MARK: - Fixing bags
 
-let randomNumber = Int.random(in: 1...250) //задаем рандомный диапазон значений
-print("Введите число от 1 до 250!") //print for console
-var number: String? //создали переменную для ввода и проверки
+let randomNumber  = UInt8.random(in: 1...250) //В данной строке мы рандомно задаем значение для сопоставления
+print("Enter a number option from 1 to 250 and press return") //print in console
+var isWin = false //флаг указатель на результат
 
-repeat { //пост проверка с оператором управления repeat {} while
-    print("Введите число и нажмите Return") //print for console
-    number = readLine() //метод для ввода на консоль
-    if randomNumber == Int(number!) { //проверка if else
-        print("Вы ввели верное число! Поздравляю Вас!")//print for console
-    } else if randomNumber > Int(number!)! { //проверка if else
-        print("Вы ввели число больше! Попробуйте еще раз!")//print for console
-    } else if randomNumber < Int(number!)! { //проверка if else /
-        print("Вы ввели число меньше! Попробуйте еще раз!")//print for console
+repeat { //условия с false использованием
+    guard let userNumber = UInt8(readLine() ?? "") else {
+        print("You have entered an invalid value! Try again!")
+        continue
     }
-} while randomNumber != Int(number!) //while randomNumber != Int(number!)
+    
+    if userNumber < randomNumber {
+        print("You have entered a value less than! Try again!")
+    } else if userNumber > randomNumber {
+        print("You have entered a value greater than! Try again!")
+    } else {
+        print("You win!")
+        isWin = true
+    }
+} while !isWin
+
+
