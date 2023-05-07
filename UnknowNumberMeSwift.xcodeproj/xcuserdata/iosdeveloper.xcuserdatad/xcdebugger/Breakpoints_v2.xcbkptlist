@@ -7,47 +7,47 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "A2FBE59B-C1F0-4C03-B4CE-CEB6916115F9"
+            uuid = "4B66E147-8F9A-4346-A8BC-D4A2F3F4016E"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "UnknowNumberMeSwift/main.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "18"
-            endingLineNumber = "18"
-            landmarkName = "unknown"
-            landmarkType = "0">
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "doGameRound()"
+            landmarkType = "9">
             <Locations>
                <Location
-                  uuid = "A2FBE59B-C1F0-4C03-B4CE-CEB6916115F9 - 615d92799a5a145f"
+                  uuid = "4B66E147-8F9A-4346-A8BC-D4A2F3F4016E - a553108ebdb0845e"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "main"
+                  symbolName = "UnknowNumberMeSwift.doGameRound() -&gt; ()"
                   moduleName = "UnknowNumberMeSwift"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/iosdeveloper/Desktop/IOS%20-%20Developer/Projekt/UnknowNumberMeSwift/UnknowNumberMeSwift/main.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "18"
-                  endingLineNumber = "18"
-                  offsetFromSymbolStart = "564">
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "472">
                </Location>
                <Location
-                  uuid = "A2FBE59B-C1F0-4C03-B4CE-CEB6916115F9 - 615d92799a5a145f"
+                  uuid = "4B66E147-8F9A-4346-A8BC-D4A2F3F4016E - a553108ebdb0847f"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "main"
+                  symbolName = "UnknowNumberMeSwift.doGameRound() -&gt; ()"
                   moduleName = "UnknowNumberMeSwift"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/iosdeveloper/Desktop/IOS%20-%20Developer/Projekt/UnknowNumberMeSwift/UnknowNumberMeSwift/main.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "18"
-                  endingLineNumber = "18"
-                  offsetFromSymbolStart = "568">
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "472">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -55,47 +55,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "43144EE2-839B-4CC8-97BC-78CE581E4D9D"
+            uuid = "6CD93296-3D20-4DB7-A9AC-477A1D3CF58A"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "UnknowNumberMeSwift/main.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
-            landmarkName = "unknown"
-            landmarkType = "0">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "9ABE5D08-A24F-4089-8BBF-747F6C17B9C8"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "UnknowNumberMeSwift/main.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
-            landmarkName = "unknown"
-            landmarkType = "0">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "A82C6114-E163-4B2E-862F-464D019DD8D2"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "UnknowNumberMeSwift/main.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
             landmarkName = "unknown"
             landmarkType = "0">
          </BreakpointContent>
